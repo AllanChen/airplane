@@ -1,0 +1,14 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1334079488
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 9 at (0): Can't find include file Tree.cginc
+  error: 2 plat 9 at (23): '' : Include callback failed
+  api=9 type=0 insize=2402 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (0): Can't find include file Tree.cginc
+  error: 2 plat 9 at (23): '' : Include callback failed
+  api=9 type=0 insize=2402 outsize=0 kw= ok=0
+End of pipe
+
+Quitting shader compiler process

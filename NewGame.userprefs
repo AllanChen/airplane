@@ -1,0 +1,58 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets (Mobile)/Scripts/FirstPersonControl.js">
+    <Files>
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js" Line="71" Column="28" />
+      <File FileName="Assets/Standard Assets/Locomotion Setup/Scripts/LocomotionPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Locomotion Setup/Locomotion/Scripts/Locomotion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CharacterScript/CharacterMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Joystick.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/FirstPersonControl.js" Line="47" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Script" expanded="True">
+              <Node name="CharacterScript" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Standard Assets" expanded="True">
+              <Node name="Locomotion Setup" expanded="True">
+                <Node name="Locomotion" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Standard Assets (Mobile)" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FirstPersonControl.js" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True">
+            <Node name="Standard Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>rockerInstant</Value>
+          <Value>player</Value>
+          <Value>player.animation.name</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
