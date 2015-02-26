@@ -1,13 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets (Mobile)/Scripts/FirstPersonControl.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Terrain/0000 ats V2 package/ats vertexLitShader Package/Shader/atsv2 vertexlit.shader">
     <Files>
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js" Line="71" Column="28" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/Locomotion Setup/Scripts/LocomotionPlayer.cs" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/Locomotion Setup/Locomotion/Scripts/Locomotion.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/CharacterScript/CharacterMove.cs" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets (Mobile)/Scripts/Joystick.js" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets (Mobile)/Scripts/FirstPersonControl.js" Line="47" Column="43" />
+      <File FileName="Assets/Terrain/0000 ats V2 package/ats vertexLitShader Package/Shader/atsv2 vertexlit.shader" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,8 +30,15 @@
           </Node>
           <Node name="Assembly-UnityScript" expanded="True">
             <Node name="Standard Assets (Mobile)" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="FirstPersonControl.js" selected="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+            <Node name="Terrain" expanded="True">
+              <Node name="0000 ats V2 package" expanded="True">
+                <Node name="ats vertexLitShader Package" expanded="True">
+                  <Node name="Shader" expanded="True">
+                    <Node name="atsv2 vertexlit.shader" selected="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
